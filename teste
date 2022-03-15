@@ -1,0 +1,11 @@
+programa Teste
+inteiro numero = 1;
+enquanto (numero > 1) {escreva(numero
+)}
+fim
+
+
+
+
+
+
